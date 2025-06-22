@@ -41,7 +41,7 @@ To design and build a clean, responsive portfolio website that highlights person
 
 ## 🔗 GitHub Repository
 
-💻 [GitHub Project Link](https://github.com/yourusername/PortfolioWebsite_CodeAlpha) *(Replace with actual link)*
+💻 [GitHub Project Link]https://github.com/zeeshanhyder12/CodeAlpha_-Build-Your-Own-Portfolio-Site
 
 ---
 
